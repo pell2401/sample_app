@@ -1,0 +1,47 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: darkorange;
+}
+
+a {
+  color: rgb(55, 226, 40);
+}
+
+ul {
+  list-style: none;
+}
+
+.top-contents {
+  background-color: aqua;
+  padding: 2px 30px;
+  margin: 10px 10px;
+
+  background-image: url(/marnie016.jpg);
+  background-size: cover;
+}
+
+.main {
+  background-color: darkorange;
+  padding: 2px 30px;
+  margin: 10px 10px;
+
+  background-image: url(/marnie007.jpg);
+  background-size: cover;
+}
+
+footer {
+  height: 300px;
+  background-color: crimson;
+  padding: 5px 30px;
+  margin: 10px 10px;
+
+  background-image: url(./marnie050.jpg);
+  background-size: cover;
+}
+
+footer h1 {
+  color: rgb(158, 8, 245);
+}
